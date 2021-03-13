@@ -1,0 +1,19 @@
+{
+    "name": "Ergo",
+    "symbol": "ERG",
+    "algorithm": "blake",
+    "reward": "POW",
+    "wallet": "https://ergoplatform.org/en/wallets/",
+
+    "explorer":"https://explorer.ergoplatform.com/en/",
+
+    "explorerGetBlockJSON": "https://api.ergoplatform.com/blocks/",
+    "explorerGetBlock": "https://explorer.ergoplatform.com/en/blocks/",
+    "explorerGetTX": "https://explorer.ergoplatform.com/en/transactions/",
+
+    "blockTime": 100,
+    "blockChange": 1,
+    "peerMagic": "fbc0b6db",
+    "peerMagicTestnet": "fcc1b7dc"
+
+}

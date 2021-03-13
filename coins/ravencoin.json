@@ -1,0 +1,17 @@
+{
+    "name": "ravencoin",    
+    "symbol": "RVN",    
+    "algorithm": "kawpow",
+    
+    "wallet": "https://ravencoin.org/wallet/",
+
+    "explorer":"https://ravencoin.network",
+    
+    "explorerGetBlockJSON": "https://ravencoin.network/api/block/",
+    "explorerGetBlock": "https://ravencoin.network/block/",
+    "explorerGetTX": "https://ravencoin.network/tx/",
+    
+    "blockTime": 60,
+    "blockChange": 1
+    
+}
